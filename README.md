@@ -4,12 +4,16 @@ Code and Output of NW Alaska Drainge Paper (I.Nitze et al.)
 **Preprint**
 - full paper will follow shortly
 ```
-@article{nitze2020catastrophic,
-  title={The catastrophic thermokarst lake drainage events of 2018 in northwestern Alaska: Fast-forward into the future},
-  author={Nitze, Ingmar and Cooley, Sarah and Duguay, Claude and Jones, Benjamin M and Grosse, Guido},
-  journal={The Cryosphere Discussions},
-  pages={1--33},
-  year={2020},
-  publisher={Copernicus GmbH}
+@Article{tc-14-4279-2020,
+AUTHOR = {Nitze, I. and Cooley, S. W. and Duguay, C. R. and Jones, B. M. and Grosse, G.},
+TITLE = {The catastrophic thermokarst lake drainage events of 2018 in northwestern
+Alaska: fast-forward into the future},
+JOURNAL = {The Cryosphere},
+VOLUME = {14},
+YEAR = {2020},
+NUMBER = {12},
+PAGES = {4279--4297},
+URL = {https://tc.copernicus.org/articles/14/4279/2020/},
+DOI = {10.5194/tc-14-4279-2020}
 }
 ```
