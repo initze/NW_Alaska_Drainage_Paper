@@ -1,8 +1,7 @@
-# NW_Alaska_Drainage_Paper
-Code and Output of NW Alaska Drainge Paper (I.Nitze et al.)
+# The catastrophic thermokarst lake drainage events of 2018 in northwestern Alaska: fast-forward into the future
+Code and Output of Nitze et al. 2020
 
-**Preprint**
-- full paper will follow shortly
+**Citation**
 ```
 @Article{tc-14-4279-2020,
 AUTHOR = {Nitze, I. and Cooley, S. W. and Duguay, C. R. and Jones, B. M. and Grosse, G.},
